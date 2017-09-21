@@ -1,3 +1,8 @@
+@font-face {
+ font-family: 'Open Sans';
+ src: url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+ font-display: fallback;
+}
 html {
   font-size: 100%;
   overflow-y: scroll;
